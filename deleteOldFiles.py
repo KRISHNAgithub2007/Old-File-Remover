@@ -1,5 +1,4 @@
 import os
-import shutil
 import time
 
 path = input("Enter the path of the directory you want to clean up : ")
